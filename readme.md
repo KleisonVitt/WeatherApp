@@ -21,15 +21,15 @@
 
 ## Table of Contents
 
-- [Weather App](#️-weather-app)
-  - [Demo](#-demo)
-  - [Table of Contents](#-table-of-contents)
-  - [About the Project](#-about-the-project)
-  - [Features](#-features)
-  - [Tech Stack](#️-tech-stack)
-  - [Installation](#️-installation)
-    - [Requirements](#-requirements)
-    - [Steps](#-steps)
+- [Weather App](#️weather-app)
+  - [Demo](#demo)
+  - [Table of Contents](#table-of-contents)
+  - [About the Project](#about-the-project)
+  - [Features](#features)
+  - [Tech Stack](#️tech-stack)
+  - [Installation](#️installation)
+    - [Requirements](#requirements)
+    - [Steps](#steps)
   - [Project Structure](#-project-structure)
 
 ---
