@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 > A web application to check the weather in real time for any city — featuring a clean UI, mock data mode, and integration with the [Visual Crossing Weather API](https://www.visualcrossing.com/).
+> This project is part of the list of recommended projects in [roadmap.sh/projects/weather-app](https://roadmap.sh/projects/weather-app) to train practical skills with web technologies.
 
 ---
 
