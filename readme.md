@@ -7,11 +7,11 @@
 ![Static Badge](https://img.shields.io/badge/API-Visual%20Crossing-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-> A modern web application to check the weather in real time for any city — featuring a clean UI, mock data mode, and integration with the [Visual Crossing Weather API](https://www.visualcrossing.com/).
+> A web application to check the weather in real time for any city — featuring a clean UI, mock data mode, and integration with the [Visual Crossing Weather API](https://www.visualcrossing.com/).
 
 ---
 
-## 🚀 Demo
+## Demo
 
 <div align="center">
   <img src="./client/public/preview.png" alt="Weather App Screenshot" width="70%">
@@ -19,22 +19,22 @@
 
 ---
 
-## 🧭 Table of Contents
+## Table of Contents
 
-- [🌤️ Weather App](#️-weather-app)
-  - [🚀 Demo](#-demo)
-  - [🧭 Table of Contents](#-table-of-contents)
-  - [💡 About the Project](#-about-the-project)
-  - [✨ Features](#-features)
-  - [🛠️ Tech Stack](#️-tech-stack)
-  - [⚙️ Installation](#️-installation)
-    - [🔧 Requirements](#-requirements)
-    - [💻 Steps](#-steps)
-  - [📁 Project Structure](#-project-structure)
+- [Weather App](#️-weather-app)
+  - [Demo](#-demo)
+  - [Table of Contents](#-table-of-contents)
+  - [About the Project](#-about-the-project)
+  - [Features](#-features)
+  - [Tech Stack](#️-tech-stack)
+  - [Installation](#️-installation)
+    - [Requirements](#-requirements)
+    - [Steps](#-steps)
+  - [Project Structure](#-project-structure)
 
 ---
 
-## 💡 About the Project
+## About the Project
 
 **Weather App** is a web application built with **HTML**, **JavaScript (ES6 modules)**, and **TailwindCSS** on the frontend, and **Node.js with Express** on the backend.  
 It allows users to search for any city and view real-time weather data, including temperature, condition, humidity, and a 3–5 day forecast.
@@ -43,17 +43,17 @@ The project was designed to be **simple, educational, and easily extendable**, s
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 Search for cities and display real-time weather data.
-- ☁️ Integration with **Visual Crossing Weather API**.
-- ⚙️ **Mock mode** for offline testing.
-- 📱 Responsive and minimalist design powered by **TailwindCSS**.
-- 🌡️ Toggle between °C and °F.
+- Search for cities and display real-time weather data.
+- Integration with **Visual Crossing Weather API**.
+- **Mock mode** for offline testing.
+- Responsive and minimalist design powered by **TailwindCSS**.
+- Toggle between °C and °F.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category         | Technologies                                                              |
 | ---------------- | ------------------------------------------------------------------------- |
@@ -64,9 +64,9 @@ The project was designed to be **simple, educational, and easily extendable**, s
 
 ---
 
-## ⚙️ Installation
+## Installation
 
-### 🔧 Requirements
+### Requirements
 
 - Node.js v18+
 - NPM or Yarn
@@ -74,7 +74,7 @@ The project was designed to be **simple, educational, and easily extendable**, s
 
 ---
 
-### 💻 Steps
+### Steps
 
 ```bash
 # 1. Clone the repository
